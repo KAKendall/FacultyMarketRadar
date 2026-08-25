@@ -1,0 +1,859 @@
+{
+  "checkedAt": "2026-08-25",
+  "policy": "Only records with a reachable, matching live page were imported. Three blocked Word-list links were separately corroborated through current indexed or official sources. AEA JOE rows were withheld from this public package because the source workbook warns against redistribution.",
+  "summary": {
+    "sourceCandidates": 246,
+    "verifiedActive": 160,
+    "excludedInactive": 10,
+    "excludedUnverifiable": 76,
+    "excludedRestrictedSource": 16,
+    "newJobsAdded": 134,
+    "duplicatesReconciled": 6
+  },
+  "confirmedInactive": [
+    {
+      "institution": "California State University-San Marcos",
+      "title": "Assistant Professor in Entrepreneurship and Strategic Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-in-entrepreneurship-and-strategic-management-san-marcos-california-1326",
+      "status": "inactive",
+      "reason": "HTTP 410",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The Hong Kong University of Science and Technology",
+      "title": "Open Rank Tenured and Tenure-track Faculty Position",
+      "url": "https://career-center.aom.org/job/open-rank-tenured-and-tenure-track-faculty-position-clearwater-bay-1287",
+      "status": "inactive",
+      "reason": "HTTP 410",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "London Business School",
+      "title": "Assistant Professor - Organisational Behaviour Subject Area",
+      "url": "https://career-center.aom.org/job/assistant-professor-organisational-behaviour-subject-area-london-england-1416",
+      "status": "inactive",
+      "reason": "HTTP 410",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Boise State University",
+      "title": "Assistant or Associate Professor - Human Resources Management",
+      "url": "https://career-center.aom.org/job/assistant-or-associate-professor-human-resources-management-boise-idaho-1268",
+      "status": "inactive",
+      "reason": "HTTP 410",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Yale University",
+      "title": "Assistant or Associate Professor of Organizational Behavior",
+      "url": "https://career-center.aom.org/job/assistant-or-associate-professor-of-organizational-behavior-new-haven-connecticut-1437",
+      "status": "inactive",
+      "reason": "closed/expired language or missing page",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Boston College",
+      "title": "Tenured or Tenure-Track Faculty Position in Management and Organization",
+      "url": "https://career-center.aom.org/job/tenured-or-tenure-track-faculty-position-in-management-and-organization-chestnut-hill-massachusetts-1423",
+      "status": "inactive",
+      "reason": "HTTP 410",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The Chinese University of Hong Kong, Shenzhen",
+      "title": "Professor / Associate Professor / Assistant Professor in Management",
+      "url": "https://career-center.aom.org/job/professor-associate-professor-assistant-professor-in-management-shenzhen-guangdong-1323",
+      "status": "inactive",
+      "reason": "HTTP 410",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of Kansas School of Business",
+      "title": "Assistant Professor of Operations Management",
+      "url": "https://careercenter.informs.org/job/assistant-professor-of-operations-management-lawrence-kansas-5453",
+      "status": "inactive",
+      "reason": "closed/expired language or missing page",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "California State University Long Beach",
+      "title": "Assistant Professor of Strategy/Organization Theory",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-strategy-organization-theory-long-beach-california-1433",
+      "status": "inactive",
+      "reason": "HTTP 410",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of Georgia",
+      "title": "Assistant or Associate Professor",
+      "url": "https://www.ugajobsearch.com/postings/500159",
+      "status": "inactive",
+      "reason": "closed/expired language or missing page",
+      "sourceDocument": "Job Postings 8.14.26.docx"
+    }
+  ],
+  "notImportedUnverifiable": [
+    {
+      "institution": "Brigham Young University",
+      "title": "Open Rank Tenure-Track Professor of Management (Organizational Behavior / HR)",
+      "url": "https://careerservices.aom.org/jobs/21601130/open-rank-tenure-track-professor-of-management-organizational-behavior-human-resources",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Copenhagen Business School",
+      "title": "Tenure Track Assistant Professorships in Strategy and Innovation 2027",
+      "url": "https://www.cbs.dk/en/about-cbs/job-and-career/vacant-positions/tenure-track-assistant-professorships-strategy-and",
+      "status": "unverifiable",
+      "reason": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The University of Hong Kong",
+      "title": "Tenure-track Professor/Associate Professor/Assistant Professor (several posts)",
+      "url": "https://career-center.aom.org/job/tenure-track-professor-associate-professor-assistant-professor-several-posts-hong-kong-1298",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The Wharton School, University of Pennsylvania",
+      "title": "Full-time, Tenure-Track Assistant Professor",
+      "url": "https://career-center.aom.org/job/full-time-tenure-track-assistant-professor-philadelphia-pennsylvania-1480",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of California Berkeley",
+      "title": "Assistant Professor - Management of Organizations, Entrepreneurship and Innovation",
+      "url": "https://career-center.aom.org/job/assistant-professor-management-of-organizations-entrepreneurship-and-innovation-haas-school-of-business-berkeley-california-1431",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "title": "Assistant Professor (Strategy & Entrepreneurship)",
+      "url": "https://career-center.aom.org/job/assistant-professor-strategy-entrepreneurship-chapel-hill-north-carolina-1438",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of Oxford",
+      "title": "Associate Professor of Innovation, Entrepreneurship and Impact",
+      "url": "https://career-center.aom.org/job/associate-professor-of-innovation-entrepreneurship-and-impact-oxford-england-1448",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of Oxford",
+      "title": "Associate Professor of International Business",
+      "url": "https://career-center.aom.org/job/associate-professor-of-international-business-oxford-england-1445",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Emory University",
+      "title": "Assistant Professor of Organization & Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-organization-management-atanta-georgia-1417",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The University of Texas at Austin",
+      "title": "Tenure Track Nonmarket Strategy/Political Economy Position",
+      "url": "https://career-center.aom.org/job/tenure-track-nonmarket-strategy-political-economy-position-austin-texas-1477",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of Oxford",
+      "title": "Associate Professor of Strategy",
+      "url": "https://career-center.aom.org/job/associate-professor-of-strategy-oxford-england-1450",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Ivey Business School, Western University",
+      "title": "Probationary (Tenure-Track) Faculty Position in Entrepreneurship",
+      "url": "https://career-center.aom.org/job/probationary-tenure-track-faculty-position-in-entrepreneurship-london-ontario-1454",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Abilene Christian University",
+      "title": "Organizational Behavior and Management - Open Rank Tenure Track Faculty Position",
+      "url": "https://career-center.aom.org/job/organizational-behavior-and-management-open-rank-tenure-track-faculty-position-abilene-texas-1385",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Abilene Christian University",
+      "title": "Operations and Information Systems - Open Rank Tenure Track Faculty Position",
+      "url": "https://career-center.aom.org/job/operations-and-information-systems-open-rank-tenure-track-faculty-position-abilene-texas-1386",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "California State University, Bakersfield",
+      "title": "Assistant Professor of Management (Organizational Behavior/Managerial Skills)",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-management-organizational-behavior-managerial-skills-bakersfield-california-1443",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Koc University",
+      "title": "Tenure Track Positions in Management & Strategy",
+      "url": "https://career-center.aom.org/job/tenure-track-positions-in-management-strategy-istanbul-istanbul-1409",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Wuhan University",
+      "title": "Professor/Associate Professor/Assistant Professor/Post-doctoral Fellows",
+      "url": "https://career-center.aom.org/job/professor-associate-professor-assistant-professor-post-doctoral-fellows-wuhan-hubei-1292",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Columbia Business School",
+      "title": "Assistant/Associate Professor - Management (Organizational Theory)",
+      "url": "https://career-center.aom.org/job/assistant-associate-professor-management-organizational-theory-new-york-new-york-1457",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Columbia Business School",
+      "title": "Assistant or Associate Professor - Management (Strategy)",
+      "url": "https://career-center.aom.org/job/assistant-or-associate-professor-management-strategy-new-york-new-york-1458",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Columbia Business School",
+      "title": "Assistant or Associate Professor - Management (Micro-Organizational Behavior)",
+      "url": "https://career-center.aom.org/job/assistant-or-associate-professor-management-micro-organizational-behavior-new-york-new-york-1459",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Pace University",
+      "title": "Tenure-Track Assistant Professor - Business Analytics & General Management",
+      "url": "https://career-center.aom.org/job/tenure-track-assistant-professor-business-analytics-general-management-new-york-new-york-1348",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of California, Irvine",
+      "title": "Assistant Professor - Strategy & Entrepreneurship",
+      "url": "https://career-center.aom.org/job/assistant-professor-strategy-entrepreneurship-irvine-california-1467",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "California Polytechnic State University",
+      "title": "Assistant/Associate Professor, Agricultural Economics",
+      "url": "https://career-center.aom.org/job/assistant-associate-professor-agricultural-economics-san-luis-obispo-california-1364",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "NYU Stern",
+      "title": "2027-28 Assistant Professor of Management and Organizations",
+      "url": "https://career-center.aom.org/job/2027-28-assistant-professor-of-management-and-organizations-full-time-tenure-track-new-york-new-york-1461",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Nova School of Business and Economics",
+      "title": "Assistant Professor of Organizational Behavior & Human Resources Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-organizational-behavior-human-resources-management-at-nova-school-of-business-and-economics-carcavelos-lisbon-1444",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Adelphi University",
+      "title": "Assistant Professor of Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-management-garden-city-new-york-1277",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Beijing Normal-Hong Kong Baptist University",
+      "title": "Faculty Positions in Faculty of Business and Management",
+      "url": "https://career-center.aom.org/job/faculty-positions-in-faculty-of-business-and-management-zhuhai-guangdong-1278",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Binghamton University",
+      "title": "Assistant Professor of Strategy",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-strategy-binghamton-new-york-1419",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "China Europe International Business School (CEIBS)",
+      "title": "Tenure-Track Faculty Positions in Management Information Systems and Operations Management",
+      "url": "https://career-center.aom.org/job/china-europe-international-business-school-ceibs-invites-applications-for-tenure-track-faculty-positions-in-management-information-systems-and-operations-management-shanghai-shanghai-1223",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Doane University",
+      "title": "Assistant or Associate Professor of Management",
+      "url": "https://career-center.aom.org/job/assistant-or-associate-professor-of-management-crete-nebraska-1346",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "ESADE Business School",
+      "title": "Assistant Professor in Human Resource Management or Leadership (Tenure-Track)",
+      "url": "https://career-center.aom.org/job/assistant-professor-in-human-resource-management-or-leadership-tenure-track-barcelona-catalonia-1422",
+      "status": "unverifiable",
+      "reason": "HTTP 429",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Furman University",
+      "title": "Assistant, Associate, or Full Professor of Analytics",
+      "url": "https://careercenter.informs.org/job/assistant-associate-or-full-professor-of-analytics-greenville-south-carolina-5451",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Glorious Sun School of Economics and Management, Donghua University",
+      "title": "Faculty Recruitment",
+      "url": "https://career-center.aom.org/job/glorious-sun-school-of-economics-and-management-donghua-university-shanghai-faculty-recruitment-shanghai-shanghai-1313",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Harvard Business School",
+      "title": "Tenure-Track Position in Strategy",
+      "url": "https://career-center.aom.org/job/tenure-track-position-in-strategy-boston-massachusetts-1330",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Huazhong University of Science and Technology",
+      "title": "Faculty Openings in Human Resources and Organizational Science",
+      "url": "https://career-center.aom.org/job/join-school-of-management-from-huazhong-university-of-science-and-technology-faculty-openings-in-human-resources-and-organizational-science-wuhan-hubei-1332",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Huazhong University of Science and Technology",
+      "title": "Faculty Openings in Human Resources and Organizational Science",
+      "url": "https://career-center.aom.org/job/join-school-of-management-from-huazhong-university-of-science-and-technology-faculty-openings-in-human-resources-and-organizational-science--1374",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "IAE Business School",
+      "title": "Tenure-Track Faculty Positions at the Assistant/Associate Professor Level",
+      "url": "https://career-center.aom.org/job/iae-business-school-tenure-track-faculty-positions-at-the-assistant-associate-professor-level-pilar-buenos-aires-1266",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "IE Business School",
+      "title": "Tenure-track Faculty positions at IE Business School",
+      "url": "https://career-center.aom.org/job/tenure-track-faculty-positions-at-ie-business-school-madrid-madrid-1315",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Indiana University",
+      "title": "Assistant/Associate/Full Professor, Operations and Decision Technologies",
+      "url": "https://careercenter.informs.org/job/assistant-associate-full-professor-positions-kelley-school-of-business-operations-and-decision-technologies-operations-management-bloomington-indiana-5404",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "James Madison University",
+      "title": "Assistant Professor (2 positions)",
+      "url": "https://career-center.aom.org/job/assistant-professor-2-positions-harrisonburg-virginia-1352",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Loyola University New Orleans",
+      "title": "Tenure-track Strategic Management Faculty",
+      "url": "https://career-center.aom.org/job/tenure-track-strategic-management-faculty-new-orleans-louisiana-1367",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Macquarie University",
+      "title": "Lecturer B - Management (= Assistant Professor)",
+      "url": "https://career-center.aom.org/job/lecturer-b-management-sydney-new-south-wales-1381",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Marist University",
+      "title": "Assistant Professor of Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-management-marist-university-poughkeepsie-new-york-1405",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Miami University",
+      "title": "Assistant Professor - Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-management-oxford-ohio-1349",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Mississippi State University",
+      "title": "Assistant Professor of Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-management-starkville-mississippi-1414",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Mississippi State University",
+      "title": "Assistant Professor of Entrepreneurship",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-entrepreneurship-starkville-mississippi-1425",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "NEOMA Business School",
+      "title": "Multiple full-time permanent Assistant, Associate, Full Professor in Strategy, IB, Geopolitics, Innovation, Sustainability, Entrepreneurship",
+      "url": "https://career-center.aom.org/job/multiple-full-time-permanent-assistant-associate-full-professor-in-strategy-international-business-geopolitics-innovation-sustainability-entrepreneurship-reims-grand-est-1336",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Nanjing University Business School",
+      "title": "Assistant/Associate Professor in Management",
+      "url": "https://career-center.aom.org/job/assistant-associate-professor-in-management-at-nanjing-university-nanjing-jiangsu-1382",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Nanyang Technological University",
+      "title": "Open-Rank Faculty Positions in Organizational Behavior / Human Resource Management",
+      "url": "https://career-center.aom.org/job/open-rank-faculty-positions-in-organizational-behavior-human-resource-management-singapore-1398",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "National University of Singapore",
+      "title": "NUS Tenure-Track Position in the Management of Technology and Innovation and/or Entrepreneurship",
+      "url": "https://career-center.aom.org/job/nus-tenure-track-position-in-the-management-of-technology-and-innovation-and-or-entrepreneurship-singapore-1288",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Nazarbayev University",
+      "title": "Assistant/Associate Professor",
+      "url": "https://career-center.aom.org/job/assistant-associate-professor-astana-astana-1395",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Northeastern State University",
+      "title": "Assistant Professor of Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-management-tahlequah-oklahoma-1451",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Ohio University",
+      "title": "Open Rank Tenure Track position with Endowed Chair in I/O Psychology (Byham Chair)",
+      "url": "https://career-center.aom.org/job/open-rank-tenure-track-position-with-endowed-chair-in-i-o-psychology-athens-ohio-1463",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Onsi Sawiris School of Business, The American University in Cairo",
+      "title": "Faculty Positions in Management, Entrepreneurship, Marketing, Finance, Economics, Data Science and AI",
+      "url": "https://career-center.aom.org/job/faculty-positions-in-management-entrepreneurship-marketing-finance-economics-data-science-and-artificial-intelligence-assistant-associate-or-full-professor-new-cairo-cairo-1335",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "SKK Graduate School of Business, Sungkyunkwan University",
+      "title": "Assistant Professor (Tenure-Track, OB / HRM)",
+      "url": "https://career-center.aom.org/job/assistant-professor-seoul-1366",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Saint Joseph's University",
+      "title": "Assistant Professor of Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-management-philadelphia-pennsylvania-1413",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "School of Entrepreneurship and Management, ShanghaiTech University",
+      "title": "Professor/Associate Professor/Assistant Professor",
+      "url": "https://career-center.aom.org/job/professor-associate-professor-assistant-professor-in-school-of-entrepreneurship-and-management-shanghai-shanghai-1402",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Tecnologico de Monterrey",
+      "title": "Full-Time Professor, Undergraduate Programs",
+      "url": "https://career-center.aom.org/job/full-time-professor-undergraduate-programs-business-school-tecnol-gico-de-monterrey-monterrey-nuevo-le-n-1325",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Texas Christian University",
+      "title": "Assistant Professor (Strategic Management)",
+      "url": "https://career-center.aom.org/job/assistant-professor-fort-worth-texas-1430",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The Hang Seng University of Hong Kong",
+      "title": "Department of Management - Associate Professor / Assistant Professor",
+      "url": "https://career-center.aom.org/job/department-of-management-associate-professor-assistant-professor-full-time-hong-kong-1324",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+      "title": "Professor/Associate Professor/Assistant Professor in Innovation, Policy and Entrepreneurship Thrust",
+      "url": "https://career-center.aom.org/job/professor-associate-professor-assistant-professor-in-innovation-policy-and-entrepreneurship-thrust-hkust-gz-guangzhou-guangdong-1009",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "The University of Tampa",
+      "title": "Tenure Track - Assistant Professor of Management - Strategy",
+      "url": "https://career-center.aom.org/job/tenure-track-assistant-professor-of-management-strategy-tampa-florida-1441",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Tsinghua University",
+      "title": "Tenure-Track Assistant/Associate/Full Professor",
+      "url": "https://career-center.aom.org/job/tenure-track-assistant-associate-full-professor-beijing-beijing-1387",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Tsinghua University",
+      "title": "Tenure-Track Assistant/Associate/Full Professor",
+      "url": "https://career-center.aom.org/job/tenure-track-assistant-associate-full-professor-beijing-beijing-1388",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "UNC Greensboro",
+      "title": "Assistant Professors of Management or Marketing",
+      "url": "https://career-center.aom.org/job/assistant-professors-of-management-or-marketing-greensboro-north-carolina-1406",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Universidad Torcuato Di Tella",
+      "title": "Tenure-track faculty position, Management",
+      "url": "https://career-center.aom.org/job/tenure-track-faculty-position-management-buenos-aires-1355",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of Hong Kong",
+      "title": "Professor/Associate Professor/Assistant Professor in Statistics",
+      "url": "https://careercenter.informs.org/job/professor-associate-professor-assistant-professor-in-statistics-in-hku-business-school-and-the-school-of-computing-and-data-science-hong-kong-5360",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of North Texas Dallas",
+      "title": "Assistant Professor of Management",
+      "url": "https://career-center.aom.org/job/assistant-professor-of-management-dallas-texas-1377",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of Tennessee Knoxville",
+      "title": "Tenure-Track Assistant Professor of Business Analytics, AI/ML, Fall 2027",
+      "url": "https://careercenter.informs.org/job/tenure-track-assistant-professor-of-business-analytics-ai-ml-fall-2027-knoxville-tennessee-5416",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Vanderbilt University",
+      "title": "Advanced Assistant/Tenured Professors in Management",
+      "url": "https://career-center.aom.org/job/advanced-assistant-tenured-professors-in-management-nashville-tennessee-1361",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "VinUniversity",
+      "title": "Faculty of Business Analytics",
+      "url": "https://career-center.aom.org/job/faculty-of-business-analytics-hanoi-hanoi-1289",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "VinUniversity",
+      "title": "Faculty of Strategy, Leadership & Organizational Behavior",
+      "url": "https://career-center.aom.org/job/faculty-of-strategy-leadership-organizational-behavior-hanoi-hanoi-1294",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "VinUniversity",
+      "title": "Faculty of Business & Management (Operations & Supply Chain)",
+      "url": "https://career-center.aom.org/job/faculty-of-business-management-operations-supply-chain-hanoi-hanoi-1356",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "VinUniversity",
+      "title": "Faculty of Accounting",
+      "url": "https://career-center.aom.org/job/faculty-of-accounting-hanoi-hanoi-1389",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "VinUniversity",
+      "title": "Faculty of Business (Innovation and Sustainable Development)",
+      "url": "https://career-center.aom.org/job/faculty-of-business-for-innovation-and-sustainable-development-hanoi-hanoi-1390",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Worcester State University",
+      "title": "Instructor/Assistant/Associate Professor of Management and Business Analytics",
+      "url": "https://www.worcester.edu/careers",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Dartmouth College",
+      "title": "Faculty Search in Strategy",
+      "url": "https://career-center.aom.org/job/faculty-search-in-strategy-hanover-new-hampshire-1376",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "Job Postings 8.14.26.docx"
+    },
+    {
+      "institution": "Binghamton University",
+      "title": "Assistant Professor of Strategy",
+      "url": "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=202743",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "Job Postings 8.14.26.docx"
+    },
+    {
+      "institution": "Clark University",
+      "title": "Assistant Professor in Applied Econometrics",
+      "url": "https://clarku.interviewexchange.com/jobofferdetails.jsp?JOBID=203340&CNTRNO=0&TSTMP=1786734937276",
+      "status": "unverifiable",
+      "reason": "HTTP 403",
+      "sourceDocument": "Job Postings 8.14.26.docx"
+    }
+  ],
+  "notImportedRestrictedSource": [
+    {
+      "institution": "Monash University",
+      "title": "Lecturer / Senior Lecturer - Business Analytics",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477586",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Columbia Business School",
+      "title": "Assistant or Associate Professor - Management",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477608",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Nanjing University Business School",
+      "title": "Assistant or Associate Professor",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477576",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "MIT Sloan",
+      "title": "Assistant Professor or Associate Professor without Tenure",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477631",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Stanford Graduate School of Business",
+      "title": "Faculty Positions",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477610",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Harvard Business School",
+      "title": "Assistant Professor (MOS-track applicants: October 15, 2026)",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477615",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Duke University",
+      "title": "Tenure-Track Faculty",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477596",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Stanford Graduate School of Business",
+      "title": "Faculty Positions in Finance AY 2026-2027",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477575",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "University of California Berkeley",
+      "title": "Assistant Professor",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477588",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Tennessee Technological University",
+      "title": "Assistant/Associate Professor of Economics",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477607",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "National Central University",
+      "title": "Assistant Professor Level or Above",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477598",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Chinese University of Hong Kong",
+      "title": "Professor / Associate Professor / Assistant Professor",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477636",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "National Central University",
+      "title": "Assistant/Associate Professor in Finance",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477637",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Hong Kong University of Science and Technology (Guangzhou)",
+      "title": "Open-Rank FinTech Faculty Positions",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477623",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "National Chung Cheng University",
+      "title": "Assistant Professor / Associate Professor",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477555",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    },
+    {
+      "institution": "Murray State University",
+      "title": "Assistant Professor of Economics",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477606",
+      "status": "active",
+      "reason": "live page contains matching title or institution",
+      "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx"
+    }
+  ]
+}

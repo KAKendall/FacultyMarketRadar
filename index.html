@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A curated, weekly-updated market board for doctoral students pursuing academic careers in business and health policy.">
+  <meta name="theme-color" content="#12251f">
+  <title>Faculty Market Radar</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='32' fill='%2312251f'/%3E%3Ctext x='32' y='39' text-anchor='middle' font-family='Georgia' font-size='20' fill='white'%3EFM%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#openings">Skip to openings</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Faculty Market Radar home">
+      <span class="brand-mark" aria-hidden="true">FM</span>
+      <span>Faculty Market Radar</span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="#openings">Openings</a>
+      <a href="#coverage">Coverage</a>
+      <a href="#about">How it works</a>
+    </nav>
+    <button class="saved-button" id="savedToggle" type="button" aria-pressed="false">
+      <span aria-hidden="true">☆</span> Saved <span id="savedCount">0</span>
+    </button>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="pulse" aria-hidden="true"></span> 2026–27 academic market</p>
+        <h1 id="heroTitle">Find the right role.<br><em>Before the deadline.</em></h1>
+        <p class="hero-deck">A focused view of faculty and postdoctoral openings across leading R1 institutions and global business schools—built for doctoral students across business disciplines and health policy.</p>
+        <div class="hero-actions">
+          <a class="primary-button" href="#openings">Browse latest roles <span aria-hidden="true">↓</span></a>
+          <a class="text-link" href="#about">About the weekly update <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <aside class="market-brief" aria-label="Market brief">
+        <p class="brief-kicker">This week’s brief</p>
+        <div class="brief-number" id="briefCount">—</div>
+        <p class="brief-label">active and watchlist opportunities</p>
+        <div class="brief-rule"></div>
+        <dl>
+          <div><dt>New this week</dt><dd id="newCount">—</dd></div>
+          <div><dt>Due in 30 days</dt><dd id="urgentCount">—</dd></div>
+          <div><dt>Sources monitored</dt><dd id="sourceCount">—</dd></div>
+        </dl>
+        <p class="refresh-note">Last checked <time id="lastChecked">—</time></p>
+      </aside>
+    </section>
+
+    <section class="ticker" aria-label="Fields covered">
+      <span>Tracking</span>
+      <div aria-hidden="true"></div>
+      <p>Strategy</p><i>•</i><p>Accounting</p><i>•</i><p>Economics</p><i>•</i><p>Finance</p><i>•</i><p>Marketing</p><i>•</i><p>Organizational Behavior</p><i>•</i><p>Operations & Analytics</p><i>•</i><p>Health Policy</p>
+    </section>
+
+    <section class="openings-section" id="openings" aria-labelledby="openingsTitle">
+      <div class="section-heading">
+        <div>
+          <p class="section-number">01 / OPEN ROLES</p>
+          <h2 id="openingsTitle">Newest opportunities</h2>
+          <p>Verified sources first. Sort by posting date or deadline.</p>
+        </div>
+        <div class="view-controls" aria-label="View options">
+          <button class="view-button active" id="gridView" type="button" aria-label="Grid view" aria-pressed="true">▦</button>
+          <button class="view-button" id="listView" type="button" aria-label="List view" aria-pressed="false">☷</button>
+        </div>
+      </div>
+
+      <div class="filter-panel" aria-label="Filter job openings">
+        <label class="search-wrap">
+          <span class="sr-only">Search openings</span>
+          <span aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="Search school, role, or location…" autocomplete="off">
+        </label>
+        <label>
+          <span>Field</span>
+          <select id="fieldFilter"><option value="all">All fields</option></select>
+        </label>
+        <label>
+          <span>Role</span>
+          <select id="typeFilter">
+            <option value="all">All roles</option>
+            <option value="Assistant Professor">Assistant Professor</option>
+            <option value="Associate Professor">Associate Professor</option>
+            <option value="Postdoctoral">Postdoctoral</option>
+            <option value="Open Rank">Open Rank</option>
+          </select>
+        </label>
+        <label>
+          <span>Region</span>
+          <select id="regionFilter">
+            <option value="all">All regions</option>
+            <option value="United States">United States</option>
+            <option value="Canada">Canada</option>
+            <option value="Europe">Europe</option>
+          </select>
+        </label>
+        <label>
+          <span>Sort</span>
+          <select id="sortFilter">
+            <option value="newest">Newest first</option>
+            <option value="deadline">Deadline soonest</option>
+            <option value="school">School A–Z</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="result-bar">
+        <p><strong id="resultCount">0</strong> opportunities</p>
+        <button id="clearFilters" type="button">Clear filters</button>
+      </div>
+      <div class="job-grid" id="jobGrid" aria-live="polite"></div>
+      <div class="empty-state" id="emptyState" hidden>
+        <p>No roles match those filters.</p>
+        <button type="button" id="emptyReset">Reset filters</button>
+      </div>
+      <button class="load-more" id="loadMore" type="button">Show more roles</button>
+    </section>
+
+    <section class="coverage-section" id="coverage" aria-labelledby="coverageTitle">
+      <div class="section-heading inverse">
+        <div>
+          <p class="section-number">02 / COVERAGE</p>
+          <h2 id="coverageTitle">The market, monitored.</h2>
+          <p>Official faculty recruiting pages and trusted academic job boards are checked every week.</p>
+        </div>
+        <p class="coverage-stat"><strong id="coverageCount">—</strong><span>source pages</span></p>
+      </div>
+      <div class="coverage-grid" id="coverageGrid"></div>
+      <button class="coverage-toggle" id="coverageToggle" type="button" aria-expanded="false">View all monitored sources <span aria-hidden="true">＋</span></button>
+    </section>
+
+    <section class="method-section" id="about" aria-labelledby="methodTitle">
+      <div>
+        <p class="section-number">03 / HOW IT WORKS</p>
+        <h2 id="methodTitle">Curated by criteria.<br>Current by design.</h2>
+      </div>
+      <div class="method-steps">
+        <article><span>1</span><div><h3>Scan</h3><p>Every Monday, the refresh checks the official and trusted sources in the coverage registry.</p></div></article>
+        <article><span>2</span><div><h3>Qualify</h3><p>Roles are filtered for target disciplines and postdoc, assistant, associate, open-rank, and tenure-track language.</p></div></article>
+        <article><span>3</span><div><h3>Publish</h3><p>New roles rise to the top, expired deadlines close automatically, and the refreshed site is redeployed.</p></div></article>
+      </div>
+      <div class="source-note">
+        <strong>Source note</strong>
+        <p>Posting details can change. Always confirm requirements and deadlines on the linked official page before applying. “Watchlist” means a school has signaled a possible search but has not published a complete role.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="brand footer-brand"><span class="brand-mark" aria-hidden="true">FM</span><span>Faculty Market Radar</span></div>
+    <p>Built for doctoral students navigating the academic market.</p>
+    <a href="#top">Back to top ↑</a>
+  </footer>
+
+  <template id="jobCardTemplate">
+    <article class="job-card">
+      <div class="card-topline"><span class="status-badge"></span><button class="save-job" type="button" aria-label="Save job">☆</button></div>
+      <div class="card-date"></div>
+      <h3></h3>
+      <p class="institution"></p>
+      <p class="location"></p>
+      <div class="tag-row"></div>
+      <p class="summary"></p>
+      <div class="deadline-row"><span>Deadline</span><strong></strong></div>
+      <a class="card-link" target="_blank" rel="noopener">View posting <span aria-hidden="true">↗</span></a>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
