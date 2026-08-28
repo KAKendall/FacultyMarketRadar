@@ -19,6 +19,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -26,15 +27,23 @@ jobs:
         with:
           node-version: 22
 
+      - name: Repair uploaded folder structure
+        run: |
+          mkdir -p scripts data
+          test -f scripts/refresh-jobs.mjs || cp refresh-jobs.mjs scripts/refresh-jobs.mjs
+          test -f data/jobs.json || cp jobs.json data/jobs.json
+          test -f data/sources.json || cp sources.json data/sources.json
+          test -f data/verification-audit.json || cp verification-audit.json data/verification-audit.json
+
       - name: Refresh official sources
         run: npm run refresh
 
-      - name: Commit refreshed data
+      - name: Commit refreshed data and repaired folders
         run: |
           git config user.name "faculty-market-bot"
           git config user.email "faculty-market-bot@users.noreply.github.com"
-          git add data/jobs.json data/source-health.json
-          git diff --cached --quiet || git commit -m "data: weekly faculty market refresh [skip ci]"
+          git add data scripts
+          git diff --cached --quiet || git commit -m "data: repair folders and refresh jobs [skip ci]"
           git push
 
       - uses: actions/configure-pages@v5
