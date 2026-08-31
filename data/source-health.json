@@ -1,271 +1,271 @@
 {
-  "checkedAt": "2026-08-28T17:04:36.769Z",
+  "checkedAt": "2026-08-31T11:21:06.114Z",
   "sources": [
     {
       "institution": "Harvard Business School",
       "url": "https://www.hbs.edu/faculty/Pages/positions.aspx",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Stanford Graduate School of Business",
       "url": "https://www.gsb.stanford.edu/jobs/faculty-positions",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Wharton, University of Pennsylvania",
       "url": "https://faculty.wharton.upenn.edu/recruiting/",
       "ok": false,
       "status": 404,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Chicago Booth",
       "url": "https://www.chicagobooth.edu/faculty/research-staff/faculty-openings",
       "ok": false,
       "status": 404,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "MIT Sloan",
       "url": "https://mitsloan.mit.edu/faculty/academic-groups/faculty-recruiting",
       "ok": false,
       "status": 404,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Kellogg School of Management",
       "url": "https://www.kellogg.northwestern.edu/academics-research/faculty-recruiting/",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Columbia Business School",
       "url": "https://business.columbia.edu/faculty-research/recruiting",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "UC Berkeley Haas",
       "url": "https://aprecruit.berkeley.edu/apply",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Yale School of Management",
       "url": "https://som.yale.edu/faculty-research/faculty-openings",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "NYU Stern",
       "url": "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/faculty-openings",
       "ok": false,
       "status": 404,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Duke Fuqua",
       "url": "https://www.fuqua.duke.edu/faculty-recruiting",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Michigan Ross",
       "url": "https://michiganross.umich.edu/faculty-research/recruiting",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Dartmouth Tuck",
       "url": "https://tuck.dartmouth.edu/faculty/faculty-recruiting",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "UVA Darden",
       "url": "https://www.darden.virginia.edu/faculty-research",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Cornell SC Johnson",
       "url": "https://business.cornell.edu/faculty-research/",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "UCLA Anderson",
       "url": "https://www.anderson.ucla.edu/faculty-and-research",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "USC Marshall",
       "url": "https://www.marshall.usc.edu/faculty-research",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Carnegie Mellon Tepper",
       "url": "https://www.cmu.edu/tepper/faculty-and-research/",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Harvard Medical School",
       "url": "https://academicpositions.harvard.edu/postings/search",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Stanford School of Medicine",
       "url": "https://facultypositions.stanford.edu/jobs/search",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Johns Hopkins Bloomberg School",
       "url": "https://faculty.jhu.edu/",
       "ok": false,
       "status": 0,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "University of Michigan",
       "url": "https://careers.umich.edu/search-jobs",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "London Business School",
       "url": "https://www.london.edu/about/jobs-at-london-business-school",
       "ok": false,
       "status": 404,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "INSEAD",
       "url": "https://www.insead.edu/faculty-research/faculty-recruitment",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "HEC Paris",
       "url": "https://www.hec.edu/en/faculty-research/join-hec-paris-faculty",
       "ok": false,
       "status": 404,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "University of Toronto Rotman",
       "url": "https://jobs.utoronto.ca/go/Faculty-Opportunities/2607417/",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "IE Business School",
       "url": "https://www.ie.edu/business-school/jobs/",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "NUS Business School",
       "url": "https://bschool.nus.edu.sg/faculty-research/faculty-recruitment/",
       "ok": false,
       "status": 404,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Academy of Management Career Center",
       "url": "https://career-center.aom.org/jobs/",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "jobs.ac.uk",
       "url": "https://www.jobs.ac.uk/search/business-and-management-studies",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Academic Positions",
       "url": "https://academicpositions.com/jobs/field/business-and-economics",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Times Higher Education Unijobs",
       "url": "https://www.timeshighereducation.com/unijobs/listings/business-and-management/",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "INFORMS Career Center",
       "url": "https://careercenter.informs.org/c-academic-jobs.html",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "AAA Career Center",
       "url": "https://careercenter.aaahq.org/jobs/faculty/",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "AMA / ELMAR",
       "url": "https://www.ama.org/listing-types/jobs/",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "Econ Job Market",
       "url": "https://econjobmarket.org/positions",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "AFA Careers",
       "url": "https://careers.afajof.org/jobs/ph-d-candidates-tenure-track-research-/",
       "ok": false,
       "status": 403,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     },
     {
       "institution": "HigherEdJobs",
       "url": "https://www.higheredjobs.com/faculty/search.cfm?JobCat=232",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-28T17:04:36.769Z"
+      "checkedAt": "2026-08-31T11:21:06.114Z"
     }
   ]
 }
