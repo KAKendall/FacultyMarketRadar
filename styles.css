@@ -79,7 +79,7 @@ h1 em { color: var(--forest-2); font-weight: 500; }
 .job-grid.list .job-card { display: grid; grid-template-columns: 130px minmax(240px, 1.25fr) minmax(190px, .9fr) 170px; align-items: center; gap: 1.25rem; min-height: auto; }
 .job-grid.list .card-topline { grid-column: 1 / -1; margin-bottom: -1rem; }
 .job-grid.list .summary, .job-grid.list .tag-row { display: none; }
-.job-card { min-height: 445px; display: flex; flex-direction: column; padding: 1.4rem; background: white; border: 1px solid var(--line); box-shadow: 0 0 0 rgba(23,35,31,0); transition: transform .2s, box-shadow .2s, border-color .2s; }
+.job-card { min-width: 0; min-height: 445px; display: flex; flex-direction: column; padding: 1.4rem; background: white; border: 1px solid var(--line); box-shadow: 0 0 0 rgba(23,35,31,0); transition: transform .2s, box-shadow .2s, border-color .2s; }
 .job-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: #bb9da2; }
 .card-topline { display: flex; justify-content: space-between; align-items: center; }
 .status-badge { display: inline-flex; align-items: center; gap: .35rem; padding: .26rem .5rem; background: #eee2e4; color: #761426; text-transform: uppercase; letter-spacing: .08em; font-size: .61rem; font-weight: 700; }
@@ -88,7 +88,7 @@ h1 em { color: var(--forest-2); font-weight: 500; }
 .save-job { border: 0; background: transparent; font-size: 1.5rem; line-height: 1; color: #718079; }
 .save-job.saved { color: var(--coral); }
 .card-date { margin: 2.25rem 0 .85rem; color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; }
-.job-card h3 { margin: 0 0 .6rem; font: 600 1.55rem/1.15 Georgia, serif; letter-spacing: -.02em; }
+.job-card h3 { max-width: 100%; margin: 0 0 .6rem; font: 600 1.55rem/1.15 Georgia, serif; letter-spacing: -.02em; overflow-wrap: anywhere; word-break: normal; hyphens: auto; text-wrap: balance; }
 .institution { margin: 0; font-weight: 700; font-size: .88rem; }
 .location { margin: .2rem 0 1rem; color: var(--muted); font-size: .82rem; }
 .tag-row { display: flex; gap: .35rem; flex-wrap: wrap; }

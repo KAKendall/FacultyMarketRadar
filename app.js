@@ -83,7 +83,7 @@ function filteredJobs() {
     return (!query || haystack.includes(query)) &&
       (field === 'all' || job.fields.includes(field)) &&
       (type === 'all' || job.roleTypes.includes(type)) &&
-      (region === 'all' || job.region === region) &&
+      (region === 'all' || normalizedRegion(job) === region) &&
       (!state.savedOnly || state.saved.has(job.id));
   }).sort((a,b) => {
     const sort = $('#sortFilter').value;
@@ -91,6 +91,13 @@ function filteredJobs() {
     if (sort === 'deadline') return (a.deadline || '9999-12-31').localeCompare(b.deadline || '9999-12-31');
     return (b.postedDate || b.addedDate || '').localeCompare(a.postedDate || a.addedDate || '');
   });
+}
+
+function normalizedRegion(job) {
+  const location = `${job.location || ''} ${job.school || ''} ${job.institution || ''}`;
+  const asiaLocation = /\b(?:Asia|Bangladesh|Bhutan|Brunei|Cambodia|China|Hong Kong|India|Indonesia|Iraq|Israel|Japan|Jordan|Kazakhstan|Kuwait|Laos|Lebanon|Macao|Macau|Malaysia|Maldives|Mongolia|Myanmar|Nepal|Oman|Pakistan|Philippines|Qatar|Saudi Arabia|Singapore|South Korea|Sri Lanka|Taiwan|Thailand|United Arab Emirates|Vietnam)\b/i;
+  if (job.region === 'Asia' || asiaLocation.test(location)) return 'Asia';
+  return job.region;
 }
 
 function renderJobs() {
