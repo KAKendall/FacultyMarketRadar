@@ -1,8 +1,736 @@
 {
   "schemaVersion": 1,
-  "lastCheckedAt": "2026-09-28T11:29:11.615Z",
+  "lastCheckedAt": "2026-10-12T20:17:33.564Z",
   "method": "Official institution pages and trusted academic recruiting platforms; manually verified seed with weekly automated link discovery and status checks.",
   "jobs": [
+    {
+      "id": "university-of-pennsylvania-a57a1f5947",
+      "title": "Assistant Professor of Finance (Tenure Track) 2026 - 2027",
+      "institution": "University of Pennsylvania",
+      "school": "University of Pennsylvania",
+      "location": "US Northeast",
+      "region": "United States",
+      "fields": [
+        "Finance"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://apply.interfolio.com/191776",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-pennsylvania-1907f56ef6",
+      "title": "Associate or Full Professor of Finance (Tenure Track) 2026 - 2027",
+      "institution": "University of Pennsylvania",
+      "school": "University of Pennsylvania",
+      "location": "US Northeast",
+      "region": "United States",
+      "fields": [
+        "Finance"
+      ],
+      "roleTypes": [
+        "Open Rank"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://apply.interfolio.com/191778",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "harvard-medical-school-c623edcfb9",
+      "title": "Harvard Post-Doctoral Training Program in Mental Health Services and Policy Research (T32)",
+      "institution": "Harvard Medical School",
+      "school": "Harvard Medical School",
+      "location": "US Northeast",
+      "region": "United States",
+      "fields": [
+        "Economics",
+        "Organizational Behavior",
+        "Health Policy"
+      ],
+      "roleTypes": [
+        "Postdoctoral"
+      ],
+      "track": "Fellowship",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://academicpositions.harvard.edu/postings/16864",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-toronto-rotman-0623041ed5",
+      "title": "Associate Professor / Professor - Global Economics",
+      "institution": "University of Toronto Rotman",
+      "school": "University of Toronto Rotman",
+      "location": "Canada",
+      "region": "Canada",
+      "fields": [
+        "Economics",
+        "Finance",
+        "Organizational Behavior"
+      ],
+      "roleTypes": [
+        "Associate Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://jobs.utoronto.ca/job/Toronto-Associate-Professor-Professor-Global-Economics-ON/606817817/",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-toronto-rotman-abf396713e",
+      "title": "Assistant Professor - Global Economics",
+      "institution": "University of Toronto Rotman",
+      "school": "University of Toronto Rotman",
+      "location": "Canada",
+      "region": "Canada",
+      "fields": [
+        "Economics",
+        "Finance",
+        "Organizational Behavior"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Global-Economics-ON/606817417/",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-toronto-rotman-32c714d7b2",
+      "title": "Associate Professor / Professor - Applied Economics and Munk Chair in Economics",
+      "institution": "University of Toronto Rotman",
+      "school": "University of Toronto Rotman",
+      "location": "Canada",
+      "region": "Canada",
+      "fields": [
+        "Economics",
+        "Finance",
+        "Organizational Behavior"
+      ],
+      "roleTypes": [
+        "Associate Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://jobs.utoronto.ca/job/Toronto-Associate-Professor-Professor-Applied-Economics-and-Munk-Chair-in-Economics-ON/606818717/",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-toronto-rotman-94c85c8e59",
+      "title": "Assistant Professor - Environmental Economics",
+      "institution": "University of Toronto Rotman",
+      "school": "University of Toronto Rotman",
+      "location": "Canada",
+      "region": "Canada",
+      "fields": [
+        "Economics",
+        "Finance",
+        "Organizational Behavior"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Environmental-Economics-ON/606802117/",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-toronto-rotman-458f391080",
+      "title": "Assistant Professor - Climate and Community Health Equity",
+      "institution": "University of Toronto Rotman",
+      "school": "University of Toronto Rotman",
+      "location": "Canada",
+      "region": "Canada",
+      "fields": [
+        "Finance",
+        "Organizational Behavior",
+        "Health Policy"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Climate-and-Community-Health-Equity-ON/606727817/",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-toronto-rotman-3159432158",
+      "title": "Associate Professor/Professor - Operations Research",
+      "institution": "University of Toronto Rotman",
+      "school": "University of Toronto Rotman",
+      "location": "Canada",
+      "region": "Canada",
+      "fields": [
+        "Finance",
+        "Organizational Behavior",
+        "Operations & Analytics",
+        "Information Systems & AI"
+      ],
+      "roleTypes": [
+        "Associate Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Operations-Research-ON/606569417/",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "university-of-toronto-rotman-72f1a53ad7",
+      "title": "Assistant Professor - Operations Research",
+      "institution": "University of Toronto Rotman",
+      "school": "University of Toronto Rotman",
+      "location": "Canada",
+      "region": "Canada",
+      "fields": [
+        "Finance",
+        "Organizational Behavior",
+        "Operations & Analytics",
+        "Information Systems & AI"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Operations-Research-ON/606569317/",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "jobs-ac-uk-3d6ca82402",
+      "title": "Lecturer (Below the Bar) in Strategy and International Business",
+      "institution": "jobs.ac.uk",
+      "school": "jobs.ac.uk",
+      "location": "UK / Europe",
+      "region": "Europe",
+      "fields": [
+        "Strategy",
+        "Marketing"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.jobs.ac.uk/job/DTF882/lecturer-below-the-bar-in-strategy-and-international-business",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "jobs-ac-uk-1f2eb32aca",
+      "title": "Lecturer in Finance and Accounting",
+      "institution": "jobs.ac.uk",
+      "school": "jobs.ac.uk",
+      "location": "UK / Europe",
+      "region": "Europe",
+      "fields": [
+        "Accounting",
+        "Finance",
+        "Strategy",
+        "Marketing"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.jobs.ac.uk/job/DTF566/lecturer-in-finance-and-accounting",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "jobs-ac-uk-0ef01b93e2",
+      "title": "Faculty Position in Digital Finance (Full Rank)",
+      "institution": "jobs.ac.uk",
+      "school": "jobs.ac.uk",
+      "location": "UK / Europe",
+      "region": "Europe",
+      "fields": [
+        "Finance",
+        "Strategy",
+        "Organizational Behavior",
+        "Operations & Analytics",
+        "Information Systems & AI"
+      ],
+      "roleTypes": [
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.jobs.ac.uk/job/DTF173/faculty-position-in-digital-finance-full-rank",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "jobs-ac-uk-7f691b0841",
+      "title": "Lecturer / Programme Director, Leadership and Management (Maternity Cover)",
+      "institution": "jobs.ac.uk",
+      "school": "jobs.ac.uk",
+      "location": "UK / Europe",
+      "region": "Europe",
+      "fields": [
+        "Strategy",
+        "Organizational Behavior",
+        "Marketing"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.jobs.ac.uk/job/DTE731/lecturer-programme-director-leadership-and-management-maternity-cover",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "jobs-ac-uk-4f6bc10fe0",
+      "title": "Lecturer / Senior Lecturer in Operations, Supply Chain and Logistics",
+      "institution": "jobs.ac.uk",
+      "school": "jobs.ac.uk",
+      "location": "UK / Europe",
+      "region": "Europe",
+      "fields": [
+        "Strategy",
+        "Organizational Behavior",
+        "Marketing",
+        "Operations & Analytics"
+      ],
+      "roleTypes": [
+        "Postdoctoral",
+        "Assistant Professor",
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.jobs.ac.uk/job/DTE174/lecturer-senior-lecturer-in-operations-supply-chain-and-logistics",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "jobs-ac-uk-e1daccb2b9",
+      "title": "Lecturer / Senior Lecturer in Finance and Accounting",
+      "institution": "jobs.ac.uk",
+      "school": "jobs.ac.uk",
+      "location": "UK / Europe",
+      "region": "Europe",
+      "fields": [
+        "Accounting",
+        "Finance",
+        "Organizational Behavior",
+        "Marketing"
+      ],
+      "roleTypes": [
+        "Postdoctoral",
+        "Assistant Professor",
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.jobs.ac.uk/job/DTE164/lecturer-senior-lecturer-in-finance-and-accounting",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "jobs-ac-uk-61235e1da9",
+      "title": "Lecturer or Senior Lecturer (Business and Finance – China)",
+      "institution": "jobs.ac.uk",
+      "school": "jobs.ac.uk",
+      "location": "UK / Europe",
+      "region": "Europe",
+      "fields": [
+        "Accounting",
+        "Finance",
+        "Strategy",
+        "Marketing",
+        "Operations & Analytics"
+      ],
+      "roleTypes": [
+        "Assistant Professor",
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.jobs.ac.uk/job/DTD784/lecturer-or-senior-lecturer-business-and-finance-china",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-a05380d047",
+      "title": "Assistant Professor (Applied Microeconomics)",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478043&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-6cdb5df6b2",
+      "title": "Assistant Professor (Economic Theory)",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478044&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-92c876fb37",
+      "title": "Assistant or Associate Professor - Economics",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Finance"
+      ],
+      "roleTypes": [
+        "Assistant Professor",
+        "Associate Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-12-02",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478143&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-606dcf67b7",
+      "title": "Assistant Professor of Sociology or Economics",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-11-01",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478030&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-c7ec390319",
+      "title": "Assistant Professor of Business/Finance",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Accounting",
+        "Economics",
+        "Finance",
+        "Marketing"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-11-16",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478095&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-bfd79ec7b0",
+      "title": "Assistant or Associate Professor of Economics",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Marketing"
+      ],
+      "roleTypes": [
+        "Associate Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-11-16",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478090&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-724b287d09",
+      "title": "Two Assistant Professor Positions in Economics for Junior Candidates",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Finance"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-11-15",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478040&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-ca688dd949",
+      "title": "Assistant Professor, Economics",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Finance",
+        "Organizational Behavior"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-12-31",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478024&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-9c5571d619",
+      "title": "Assistant Professor Of Economics",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Information Systems & AI"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-11-15",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478125&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-8535b34a4f",
+      "title": "Assistant Professor of Economics",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics"
+      ],
+      "roleTypes": [
+        "Postdoctoral",
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-11-01",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478149&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "american-economic-association-joe-c3df13eb8b",
+      "title": "Assistant Professor of Economics & Business-Macroeconomics",
+      "institution": "American Economic Association JOE",
+      "school": "American Economic Association JOE",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Finance"
+      ],
+      "roleTypes": [
+        "Postdoctoral",
+        "Assistant Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-10-12",
+      "deadline": "2026-11-20",
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478102&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
     {
       "id": "university-of-pennsylvania-415d9567d6",
       "title": "Postdoctoral Fellowship in Philosophy, Politics and Economics University of Pennsylvania",
@@ -25,7 +753,9 @@
       "url": "https://apply.interfolio.com/194199",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "carnegie-mellon-university-cfd7a809e2",
@@ -49,7 +779,9 @@
       "url": "https://apply.interfolio.com/192180",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "harvard-medical-school-b236c61952",
@@ -73,7 +805,9 @@
       "url": "https://academicpositions.harvard.edu/postings/16835",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "university-of-toronto-rotman-1794539912",
@@ -99,7 +833,9 @@
       "url": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Data-Science-Computation-ON/606449617/",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "university-of-toronto-rotman-22ed831ca9",
@@ -126,7 +862,9 @@
       "url": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Data-Science-Computation-ON/606450917/",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-d16a3dc08b",
@@ -152,7 +890,9 @@
       "url": "https://www.jobs.ac.uk/job/DTB372/assistant-professor-of-marketing-quantitative-marketing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-212f598c78",
@@ -180,7 +920,9 @@
       "url": "https://www.jobs.ac.uk/job/DQH652/faculty-position-in-marketing-and-management",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-98c1be2a66",
@@ -205,7 +947,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA919/lecturer-in-international-business-and-leadership",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-2e554c6e51",
@@ -231,7 +975,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA354/senior-lecturer-in-business-management-and-marketing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-94ce9c4b51",
@@ -257,7 +1003,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA573/postdoctoral-research-assistant-in-quantitative-finance",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-b90d4b7aac",
@@ -285,7 +1033,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA626/postdoctoral-research-assistant-in-quantitative-finance",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-a442e236d1",
@@ -311,7 +1061,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA520/lecturer-in-accounting-and-finance-auditing-and-financial-accounting",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-987060c5f3",
@@ -336,7 +1088,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA696/associate-lecturer-in-marketing-and-communications",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-f9056c1e84",
@@ -362,7 +1116,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA181/lecturers-in-strategic-management",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-5ed808daa7",
@@ -389,7 +1145,9 @@
       "url": "https://www.jobs.ac.uk/job/DTA185/lecturers-in-international-finance",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "times-higher-education-unijobs-029a9a99dd",
@@ -419,7 +1177,9 @@
       "url": "https://www.timeshighereducation.com/unijobs/listing/415814/assistant-associate-professor-strategy-and-marketing/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "times-higher-education-unijobs-f3f99835d0",
@@ -447,7 +1207,9 @@
       "url": "https://www.timeshighereducation.com/unijobs/listing/415841/tenure-track-professor-associate-professor-assistant-professor-in-strategy-international-business/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "times-higher-education-unijobs-4a18637e2a",
@@ -479,7 +1241,9 @@
       "url": "https://www.timeshighereducation.com/unijobs/listing/415833/lecturer-senior-lecturer-in-international-business-and-strategy/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "times-higher-education-unijobs-14d4aa6c3e",
@@ -509,7 +1273,9 @@
       "url": "https://www.timeshighereducation.com/unijobs/listing/415832/associate-professor-in-digital-marketing-and-analytics/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "american-economic-association-joe-62b90c1913",
@@ -534,7 +1300,9 @@
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477886&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "american-economic-association-joe-a068386cfc",
@@ -559,7 +1327,9 @@
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477877&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "american-economic-association-joe-6a817a8b00",
@@ -585,7 +1355,9 @@
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477864&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "american-economic-association-joe-f69d60a7f8",
@@ -609,7 +1381,9 @@
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477902&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "american-economic-association-joe-c9bf8b04ea",
@@ -637,7 +1411,9 @@
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477872&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": true
     },
     {
       "id": "harvard-business-school-ba7b750755",
@@ -663,7 +1439,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -689,7 +1465,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -715,7 +1491,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -741,7 +1517,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -767,7 +1543,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -796,7 +1572,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -827,7 +1603,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -857,7 +1633,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -888,7 +1664,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -915,7 +1691,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -947,7 +1723,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -977,7 +1753,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1003,7 +1779,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1032,7 +1808,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1063,7 +1839,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1093,7 +1869,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1126,7 +1902,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1151,12 +1927,12 @@
       "addedDate": "2026-09-14",
       "deadline": "2026-09-30",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.jobs.ac.uk/job/DSV833/postdoctoral-fellowship-in-entrepreneurship",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1189,7 +1965,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1216,7 +1992,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1242,7 +2018,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1271,7 +2047,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1300,7 +2076,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1327,7 +2103,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1356,7 +2132,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1388,7 +2164,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1417,7 +2193,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1444,7 +2220,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1472,7 +2248,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1501,7 +2277,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1527,7 +2303,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1553,7 +2329,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1580,7 +2356,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1606,7 +2382,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1632,7 +2408,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1658,7 +2434,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1684,7 +2460,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1710,7 +2486,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1736,7 +2512,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1762,7 +2538,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1788,7 +2564,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1816,7 +2592,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1844,7 +2620,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1872,7 +2648,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1902,7 +2678,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1928,7 +2704,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1950,12 +2726,12 @@
       "addedDate": "2026-09-01",
       "deadline": "2026-10-05",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477571&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -1976,12 +2752,12 @@
       "addedDate": "2026-09-01",
       "deadline": "2026-10-02",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477552&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2012,7 +2788,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2043,7 +2819,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2070,7 +2846,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2096,7 +2872,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2123,7 +2899,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2149,7 +2925,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2176,7 +2952,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2200,12 +2976,12 @@
       "addedDate": "2026-08-31",
       "deadline": null,
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.timeshighereducation.com/unijobs/listing/415009/lecturer-in-entrepreneurship-and-innovation/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2231,7 +3007,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2257,7 +3033,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2283,7 +3059,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2311,7 +3087,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2337,7 +3113,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2370,7 +3146,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2397,7 +3173,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2426,7 +3202,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2454,7 +3230,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2485,7 +3261,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2513,7 +3289,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2545,7 +3321,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2577,7 +3353,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2605,7 +3381,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2635,7 +3411,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2663,7 +3439,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2693,7 +3469,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2721,7 +3497,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2751,7 +3527,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2780,7 +3556,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2810,7 +3586,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2838,7 +3614,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2866,7 +3642,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2894,7 +3670,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2926,7 +3702,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2956,7 +3732,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -2988,7 +3764,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3019,7 +3795,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3050,7 +3826,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3083,7 +3859,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3118,7 +3894,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3152,7 +3928,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3189,7 +3965,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3216,7 +3992,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3246,7 +4022,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "deadlineDisplay": "Rolling review (began 2026-08-17)",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3276,7 +4052,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "deadlineDisplay": "Rolling review (began 2026-08-18)",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3308,7 +4084,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "deadlineDisplay": "Rolling review (began 2026-08-18)",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3338,7 +4114,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3371,7 +4147,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Priority date was July 15, 2026. Deadline corroborated from indexed copies - the AJO page returned an empty body.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3401,7 +4177,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3432,7 +4208,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3462,7 +4238,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3491,7 +4267,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3521,7 +4297,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3551,7 +4327,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3580,7 +4356,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3609,7 +4385,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3638,7 +4414,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3667,7 +4443,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3698,7 +4474,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3729,7 +4505,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3759,7 +4535,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] THREE lines, not one. Apply by EMAIL to POLPTAC@WLU.CA quoting SM TT 2026-01 - the ad says do NOT use the Apply Now button.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3788,7 +4564,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3817,8 +4593,8 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": false
     },
     {
       "id": "george-mason-university-assistant-professor-two-tenure-line-positi-3602c425",
@@ -3847,7 +4623,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Two positions, not one. Open until filled past the Sept 1 full-consideration date. Sheet's \"Advanced Assistant\" label is not in the ad.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3876,7 +4652,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3905,7 +4681,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -3934,8 +4710,8 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": false
     },
     {
       "id": "the-university-of-texas-at-austin-2027-28-tenure-track-faculty-management-de-071d3694",
@@ -3964,7 +4740,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] A SECOND, separate UT Austin search - distinct from the McCombs BGS nonmarket-strategy line (Sept 25) already in this list. Different department.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -3993,7 +4769,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4026,7 +4802,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Two lines: one AI/ML + strategic management, one AI/ML + OB/HR. The peer sheet left the field cell blank.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4055,7 +4831,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4084,7 +4860,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4113,7 +4889,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4144,7 +4920,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4174,7 +4950,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4203,7 +4979,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4232,7 +5008,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4261,8 +5037,8 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": false
     },
     {
       "id": "technical-university-of-munich-tum-tenure-track-assistant-professor-in-techno-5993d0e9",
@@ -4290,7 +5066,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4319,7 +5095,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4350,8 +5126,8 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": false
     },
     {
       "id": "hec-paris-faculty-position-in-management-and-human-r-3b915e48",
@@ -4379,7 +5155,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4409,7 +5185,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4438,7 +5214,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4467,7 +5243,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4496,7 +5272,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4526,7 +5302,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4555,7 +5331,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4584,7 +5360,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4613,7 +5389,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4642,7 +5418,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4672,7 +5448,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4702,7 +5478,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4731,7 +5507,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4760,7 +5536,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4790,7 +5566,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4819,7 +5595,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4848,7 +5624,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4877,7 +5653,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4907,7 +5683,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4936,7 +5712,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -4965,7 +5741,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -4996,7 +5772,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Not a hard deadline - posting runs to Nov 3, 2026. Salary band $83,200-$357,300. Companion HR line is Assistant/Associate only.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5026,7 +5802,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Partial] Search is real (Leven School, Aug 2027 start) but the deadline remains crowdsourced only; the USG applications portal is JS-only.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5055,7 +5831,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5085,7 +5861,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5114,7 +5890,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5143,7 +5919,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5172,7 +5948,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5202,8 +5978,8 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": false
     },
     {
       "id": "university-of-cambridge-assistant-associate-professor-in-strategy--b6163b31",
@@ -5232,7 +6008,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5261,7 +6037,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5292,7 +6068,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5322,7 +6098,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5351,7 +6127,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5381,7 +6157,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5411,7 +6187,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5442,7 +6218,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5464,14 +6240,14 @@
       "deadline": "2026-09-30",
       "deadlineLabel": "Deadline",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.jobs.ac.uk/job/DSP213/lecturer-in-finance-teaching-and-research",
       "summary": "Lecturer opening in Finance. Verified against the live posting on Aug 25, 2026.",
       "source": "jobs.ac.uk",
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5493,14 +6269,14 @@
       "deadline": "2026-10-01",
       "deadlineLabel": "Deadline",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.jobs.ac.uk/job/DSC731/tenure-track-faculty-position-in-hrm-leadership-organization-studies-or-organizational-behaviour",
       "summary": "Assistant Professor opening in Organizational Behavior & HR. Verified against the live posting on Aug 25, 2026.",
       "source": "jobs.ac.uk",
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5531,7 +6307,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] The Aug 1 full-consideration date has passed but applications close Oct 13. A sibling OB/Leadership search is also open. SCU's own openings page is a cycle behind.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5561,7 +6337,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5590,7 +6366,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5620,7 +6396,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Hard receipt deadline incl. reference letters, 11:59pm ET. Up to two lines. Beware a CLOSED UTSC posting at a nearly identical URL.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5649,7 +6425,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5679,7 +6455,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] The peer sheet mislabels this as a teaching post - it IS tenure-track. Aug 2027 start, six courses/year, $90-110K.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5709,7 +6485,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5739,7 +6515,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Three positions, Assistant-rank priority, July 1 2027 start. Careers portal is JS-only; deadline from the ad text.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5770,7 +6546,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5799,7 +6575,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5830,7 +6606,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5861,7 +6637,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5893,7 +6669,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5922,7 +6698,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -5952,7 +6728,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -5982,7 +6758,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6014,7 +6790,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6044,7 +6820,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6074,7 +6850,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "No deep link - search this employer on the AAA facet page; Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -6104,7 +6880,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6133,8 +6909,8 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": false
     },
     {
       "id": "duke-university-tenure-track-faculty-position-in-operation-f883618b",
@@ -6162,8 +6938,8 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
+      "sourceReachable": false
     },
     {
       "id": "hong-kong-university-of-science-and-technology-guangzho-professor-associate-professor-assistant-pr-c3de6044",
@@ -6193,7 +6969,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -6224,7 +7000,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6253,7 +7029,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -6283,7 +7059,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -6313,7 +7089,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6337,14 +7113,14 @@
       "deadline": null,
       "deadlineLabel": "Deadline",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.timeshighereducation.com/unijobs/listing/414380/chair-professor-professor-associate-professor-assistant-professor-lingnan-60/",
       "summary": "Open Rank opening in General Management. Verified against the live posting on Aug 25, 2026.",
       "source": "THE unijobs",
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6374,7 +7150,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6404,7 +7180,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6434,7 +7210,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -6463,7 +7239,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6492,7 +7268,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6522,7 +7298,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6552,7 +7328,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6582,7 +7358,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Research area is open.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6613,7 +7389,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] No tenure system - one-year renewable contract, 40 hrs/week, three-month probation. Apply by email. Poor fit for a research-track candidate.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -6643,7 +7419,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6674,7 +7450,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6704,7 +7480,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6734,7 +7510,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6764,7 +7540,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6794,7 +7570,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Teaching-intensive tenure-track at a regional institution.",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6824,7 +7600,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6853,7 +7629,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6882,7 +7658,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6912,7 +7688,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -6945,7 +7721,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -6974,7 +7750,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7003,7 +7779,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7032,7 +7808,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -7061,7 +7837,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7090,7 +7866,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -7119,7 +7895,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7148,7 +7924,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7177,7 +7953,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7206,7 +7982,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7228,11 +8004,11 @@
       "addedDate": "2026-08-21",
       "deadline": "2026-10-01",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://academicpositions.harvard.edu/postings/16399",
       "summary": "A two-year fellowship supporting independent research on equitable and efficient U.S. health care systems in low-income settings.",
       "source": "Harvard Academic Positions",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7258,7 +8034,7 @@
       "url": "https://apply.interfolio.com/190874",
       "summary": "HBS is accepting applications for a full-time tenure-track position in Accounting and Management starting in 2027.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7285,7 +8061,7 @@
       "url": "https://apply.interfolio.com/189921",
       "summary": "The Entrepreneurial Management unit seeks candidates on the economics and finance side of entrepreneurship.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7312,7 +8088,7 @@
       "url": "https://apply.interfolio.com/189924",
       "summary": "A 2027 tenure-track entrepreneurship search focused on management, organizations, and strategy.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7338,7 +8114,7 @@
       "url": "https://apply.interfolio.com/188373",
       "summary": "HBS is recruiting for a 2027 tenure-track position on the management side of Strategy.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7364,7 +8140,7 @@
       "url": "https://apply.interfolio.com/189920",
       "summary": "A full-time tenure-track Organizational Behavior position with case-method teaching and graduate education responsibilities.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7393,7 +8169,7 @@
       "source": "Official Stanford GSB faculty positions page",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7421,7 +8197,7 @@
       "source": "Academy of Management Career Center",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7446,7 +8222,7 @@
       "url": "https://www.jobs.ac.uk/job/DSJ995/assistant-professor-organisational-behaviour-subject-area",
       "summary": "An assistant professor search in the Organisational Behaviour subject area for the 2027 cycle.",
       "source": "jobs.ac.uk",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7472,7 +8248,7 @@
       "url": "https://apply.interfolio.com/188430",
       "summary": "A 2027 tenure-track search in Human Resources and Organizational Behavior.",
       "source": "Interfolio / AOM announcement",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7497,7 +8273,7 @@
       "url": "https://www.ie.edu/business-school/jobs/",
       "summary": "Multiple tenure-track assistant professor positions in Strategy beginning September 2027.",
       "source": "Official IE Business School jobs page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7522,7 +8298,7 @@
       "url": "https://www.eaa-online.org/arc/jobs/two-tenure-track-assistant-professorships/",
       "summary": "Up to two tenure-track assistant professorships open to candidates across all areas of accounting.",
       "source": "European Accounting Association",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7547,7 +8323,7 @@
       "url": "https://www.fuqua.duke.edu/faculty-recruiting",
       "summary": "Fuqua has signaled that a 2027 Accounting opening is possible; a finalized field-specific posting is not yet available.",
       "source": "Official Fuqua faculty recruiting page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7573,7 +8349,7 @@
       "url": "https://careers.umich.edu/job_detail/281133/presidential-postdoctoral-fellowshipassistant-professor",
       "summary": "A fellowship with a possible transition to a tenure-track appointment; health practice and policy is one of the priority areas.",
       "source": "Official university careers page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -7598,7 +8374,7 @@
       "url": "https://careers.umich.edu/job_detail/281080/assistant-professor-gender-sexuality-and-health-equity",
       "summary": "An interdisciplinary M-PACT search welcoming work on health policy and the social and structural conditions shaping health inequities.",
       "source": "Official university careers page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7626,7 +8402,7 @@
       "url": "https://facultypositions.stanford.edu/jobs/assistant-associate-or-full-professor-of-health-policy-health-economist-stanford-university-california-united-states",
       "summary": "Open-rank search for a health economist spanning financing, delivery, labor markets, technology, disparities, and global health economics.",
       "source": "Official faculty positions page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7653,7 +8429,7 @@
       "source": "UC Berkeley AP Recruit",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     },
     {
@@ -7681,7 +8457,7 @@
       "source": "UC Berkeley AP Recruit",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": false
     },
     {
@@ -7706,7 +8482,7 @@
       "url": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Accounting-ON/604148917/",
       "summary": "Rotman expects to make up to two tenure-stream appointments in accounting.",
       "source": "Official University of Toronto careers page",
-      "lastVerifiedAt": "2026-09-28T11:29:11.615Z",
+      "lastVerifiedAt": "2026-10-12T20:17:33.564Z",
       "sourceReachable": true
     }
   ],
