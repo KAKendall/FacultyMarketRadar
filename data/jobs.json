@@ -1,8 +1,184 @@
 {
   "schemaVersion": 1,
-  "lastCheckedAt": "2026-11-02T20:46:49.520Z",
+  "lastCheckedAt": "2026-11-09T21:26:07.672Z",
   "method": "Official institution pages and trusted academic recruiting platforms; manually verified seed with weekly automated link discovery and status checks.",
   "jobs": [
+    {
+      "id": "carnegie-mellon-university-9511ec4435",
+      "title": "Assistant Professor of Economics and Public Policy",
+      "institution": "Carnegie Mellon University",
+      "school": "Carnegie Mellon University",
+      "location": "US Northeast",
+      "region": "United States",
+      "fields": [
+        "Economics"
+      ],
+      "roleTypes": [
+        "Assistant Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-11-09",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://apply.interfolio.com/196886",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "times-higher-education-unijobs-932d166a46",
+      "title": "View details Faculty Positions in Strategic Management and Organisations - Practice Track (Assoc. Prof. & Above)",
+      "institution": "Times Higher Education Unijobs",
+      "school": "Times Higher Education Unijobs",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Accounting",
+        "Economics",
+        "Finance",
+        "Strategy",
+        "Organizational Behavior",
+        "Marketing",
+        "Operations & Analytics"
+      ],
+      "roleTypes": [
+        "Assistant Professor",
+        "Associate Professor",
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-11-09",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.timeshighereducation.com/unijobs/listing/417221/faculty-positions-in-strategic-management-and-organisations-practice-track-assoc-prof-and-above-/?LinkSource=PremiumListing",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "times-higher-education-unijobs-6d7e79396c",
+      "title": "View details Faculty Positions in Strategic Management and Organisations – Research Track (Full Rank)",
+      "institution": "Times Higher Education Unijobs",
+      "school": "Times Higher Education Unijobs",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Accounting",
+        "Economics",
+        "Finance",
+        "Strategy",
+        "Organizational Behavior",
+        "Marketing",
+        "Operations & Analytics",
+        "Information Systems & AI"
+      ],
+      "roleTypes": [
+        "Assistant Professor",
+        "Associate Professor",
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-11-09",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.timeshighereducation.com/unijobs/listing/417222/faculty-positions-in-strategic-management-and-organisations-research-track-full-rank-/?LinkSource=PremiumListing",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "times-higher-education-unijobs-19623034a0",
+      "title": "View details Professor/Associate Professor in Business Analytics",
+      "institution": "Times Higher Education Unijobs",
+      "school": "Times Higher Education Unijobs",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Strategy",
+        "Organizational Behavior",
+        "Operations & Analytics",
+        "Information Systems & AI"
+      ],
+      "roleTypes": [
+        "Associate Professor",
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-11-09",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.timeshighereducation.com/unijobs/listing/417442/professor-associate-professor-in-business-analytics/?LinkSource=PremiumListing",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "times-higher-education-unijobs-b682360ff5",
+      "title": "View details Senior Lecturer in Business Analytics (Teaching track)",
+      "institution": "Times Higher Education Unijobs",
+      "school": "Times Higher Education Unijobs",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Strategy",
+        "Organizational Behavior",
+        "Operations & Analytics",
+        "Information Systems & AI"
+      ],
+      "roleTypes": [
+        "Assistant Professor",
+        "Associate Professor",
+        "Associate Professor"
+      ],
+      "track": "Faculty",
+      "postedDate": null,
+      "addedDate": "2026-11-09",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://www.timeshighereducation.com/unijobs/listing/417263/senior-lecturer-in-business-analytics-teaching-track-/?LinkSource=PremiumListing",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
+    {
+      "id": "econ-job-market-8875e649c3",
+      "title": "https://ats.talentadore.com/apply/professor-or-associate-assistant-professor-tenure-track-in-economics/Zy1023",
+      "institution": "Econ Job Market",
+      "school": "Econ Job Market",
+      "location": "Global",
+      "region": "Global",
+      "fields": [
+        "Economics",
+        "Strategy",
+        "Organizational Behavior"
+      ],
+      "roleTypes": [
+        "Postdoctoral",
+        "Assistant Professor",
+        "Associate Professor"
+      ],
+      "track": "Tenure-track",
+      "postedDate": null,
+      "addedDate": "2026-11-09",
+      "deadline": null,
+      "startDate": null,
+      "status": "open",
+      "url": "https://ats.talentadore.com/apply/professor-or-associate-assistant-professor-tenure-track-in-economics/Zy1023",
+      "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
+      "source": "Official recruiting source",
+      "automated": true
+    },
     {
       "id": "carnegie-mellon-university-9e866e7bf9",
       "title": "Assistant Professor of Statistics & Data Science",
@@ -25,7 +201,9 @@
       "url": "https://apply.interfolio.com/196645",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "harvard-medical-school-cd0caa4113",
@@ -52,7 +230,9 @@
       "url": "https://academicpositions.harvard.edu/postings/17008",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-debab1665c",
@@ -80,7 +260,9 @@
       "url": "https://www.jobs.ac.uk/job/DTJ705/four-year-fully-funded-graduate-teaching-fellowships-for-accounting-and-finance-phd-students",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-5e41ec0051",
@@ -107,7 +289,9 @@
       "url": "https://www.jobs.ac.uk/job/DTL838/lecturer-in-sustainable-supply-chain-management-maternity-cover",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-e9dc8a14fe",
@@ -135,7 +319,9 @@
       "url": "https://www.jobs.ac.uk/job/DTL203/tenure-track-assistant-associate-professor-in-accounting",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "jobs-ac-uk-43dc1015f7",
@@ -163,7 +349,9 @@
       "url": "https://www.jobs.ac.uk/job/DTL213/tenure-track-assistant-associate-professor-in-finance",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "times-higher-education-unijobs-81a9ddf02e",
@@ -192,7 +380,9 @@
       "url": "https://www.timeshighereducation.com/unijobs/listing/417080/professor-associate-professor-assistant-professor-in-finance/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "times-higher-education-unijobs-73f49d6a24",
@@ -223,7 +413,9 @@
       "url": "https://www.timeshighereducation.com/unijobs/listing/417082/faculty-positions-in-marketing-management-human-resources-management-or-business-studies/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
-      "automated": true
+      "automated": true,
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": true
     },
     {
       "id": "university-of-toronto-rotman-e32e5edb56",
@@ -251,7 +443,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -280,7 +472,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -310,7 +502,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -339,7 +531,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -369,7 +561,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -399,7 +591,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -429,7 +621,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -456,7 +648,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -482,7 +674,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -508,7 +700,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -534,7 +726,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -562,7 +754,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -589,7 +781,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -619,7 +811,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -649,7 +841,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -677,7 +869,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -705,7 +897,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -737,7 +929,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -771,7 +963,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -805,7 +997,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -839,7 +1031,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -869,7 +1061,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -897,7 +1089,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -926,7 +1118,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -958,7 +1150,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -983,12 +1175,12 @@
       "addedDate": "2026-10-19",
       "deadline": null,
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.timeshighereducation.com/unijobs/listing/416595/associate-professor-applied-ai-in-marketing/?LinkSource=PremiumListing",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1016,7 +1208,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1042,7 +1234,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1068,7 +1260,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1096,7 +1288,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1124,7 +1316,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1152,7 +1344,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1180,7 +1372,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1208,7 +1400,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1236,7 +1428,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1265,7 +1457,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1294,7 +1486,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1321,7 +1513,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1350,7 +1542,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1380,7 +1572,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1408,7 +1600,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1439,7 +1631,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1470,7 +1662,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1501,7 +1693,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1527,7 +1719,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1553,7 +1745,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1581,7 +1773,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1607,7 +1799,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1636,7 +1828,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1663,7 +1855,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1690,7 +1882,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1718,7 +1910,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1745,7 +1937,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1772,7 +1964,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1800,7 +1992,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1826,7 +2018,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1852,7 +2044,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1878,7 +2070,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1906,7 +2098,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1935,7 +2127,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1963,7 +2155,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -1993,7 +2185,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2020,7 +2212,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2048,7 +2240,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2076,7 +2268,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2106,7 +2298,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2134,7 +2326,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2161,7 +2353,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2189,7 +2381,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2218,7 +2410,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2250,7 +2442,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2280,7 +2472,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2314,7 +2506,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2346,7 +2538,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2373,7 +2565,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2400,7 +2592,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2428,7 +2620,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2454,7 +2646,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2484,7 +2676,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2511,7 +2703,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2537,7 +2729,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2563,7 +2755,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2589,7 +2781,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2615,7 +2807,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2644,7 +2836,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2675,7 +2867,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2705,7 +2897,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2736,7 +2928,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2763,7 +2955,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2795,7 +2987,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2825,7 +3017,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2851,7 +3043,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2880,7 +3072,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2911,7 +3103,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2941,7 +3133,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -2974,7 +3166,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3004,7 +3196,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3037,7 +3229,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3064,7 +3256,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3090,7 +3282,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3119,7 +3311,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3148,7 +3340,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3175,7 +3367,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3204,7 +3396,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3236,7 +3428,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3265,7 +3457,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3292,7 +3484,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3320,7 +3512,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3349,7 +3541,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3375,7 +3567,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3401,7 +3593,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3428,7 +3620,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3454,7 +3646,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3480,7 +3672,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3506,7 +3698,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3532,7 +3724,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3558,7 +3750,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3584,7 +3776,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3610,7 +3802,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3636,7 +3828,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3664,7 +3856,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3692,7 +3884,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3720,7 +3912,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3750,7 +3942,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3776,7 +3968,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3803,7 +3995,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3829,7 +4021,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3860,7 +4052,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3891,7 +4083,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3918,7 +4110,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3944,7 +4136,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3971,7 +4163,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -3992,12 +4184,12 @@
       "addedDate": "2026-09-01",
       "deadline": "2026-11-03",
       "startDate": null,
-      "status": "open",
+      "status": "closed",
       "url": "https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477645&q=eNplj0Fqw0AMRe-itQvG0C58gEAhdxDKjOpMomiMNE4xwXfPBDylkJ30vvT19YBj8pJ08kO2G4wPSIoUSrozjLqIdHDl9TdbRGeycG7UuQ5lbe2FpZXJfanLMPTD10c_QAfZ0pSU5PtNCXnRYisaT__MnO4c8VwnS2TzBgNpTJEKowej20n-AhoH1oJZZW1I9qewBmfDUxXqY5WV5ZUaqd6WeYbxs-9gpmn32rZcJ42BX1M,",
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4024,7 +4216,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4053,7 +4245,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4079,7 +4271,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4105,7 +4297,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4131,7 +4323,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4159,7 +4351,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4185,7 +4377,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4218,7 +4410,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4245,7 +4437,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4274,7 +4466,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4302,7 +4494,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4333,7 +4525,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4361,7 +4553,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4393,7 +4585,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4425,7 +4617,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4453,7 +4645,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4483,7 +4675,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4511,7 +4703,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4541,7 +4733,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4569,7 +4761,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4599,7 +4791,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4628,7 +4820,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4658,7 +4850,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4686,7 +4878,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4714,7 +4906,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4742,7 +4934,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4774,7 +4966,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4804,7 +4996,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4836,7 +5028,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4867,7 +5059,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4898,7 +5090,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4931,7 +5123,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -4966,7 +5158,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5000,7 +5192,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5037,7 +5229,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5064,7 +5256,7 @@
       "summary": "Newly discovered by the weekly source scan. Confirm full details on the official posting.",
       "source": "Official recruiting source",
       "automated": true,
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5094,7 +5286,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "deadlineDisplay": "Rolling review (began 2026-08-17)",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5124,7 +5316,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "deadlineDisplay": "Rolling review (began 2026-08-18)",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5156,7 +5348,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "deadlineDisplay": "Rolling review (began 2026-08-18)",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5186,7 +5378,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5219,7 +5411,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Priority date was July 15, 2026. Deadline corroborated from indexed copies - the AJO page returned an empty body.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5249,7 +5441,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5280,7 +5472,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5310,7 +5502,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5339,7 +5531,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5369,7 +5561,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5399,7 +5591,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5428,7 +5620,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5457,7 +5649,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5486,7 +5678,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5515,7 +5707,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5546,7 +5738,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5577,7 +5769,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5607,7 +5799,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] THREE lines, not one. Apply by EMAIL to POLPTAC@WLU.CA quoting SM TT 2026-01 - the ad says do NOT use the Apply Now button.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5636,7 +5828,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5665,7 +5857,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5695,7 +5887,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Two positions, not one. Open until filled past the Sept 1 full-consideration date. Sheet's \"Advanced Assistant\" label is not in the ad.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5724,7 +5916,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5753,7 +5945,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5782,7 +5974,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5812,7 +6004,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] A SECOND, separate UT Austin search - distinct from the McCombs BGS nonmarket-strategy line (Sept 25) already in this list. Different department.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5841,7 +6033,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5874,7 +6066,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Two lines: one AI/ML + strategic management, one AI/ML + OB/HR. The peer sheet left the field cell blank.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5903,7 +6095,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5932,7 +6124,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -5961,7 +6153,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -5992,7 +6184,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6022,7 +6214,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6051,7 +6243,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6080,7 +6272,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6109,7 +6301,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6138,7 +6330,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6167,7 +6359,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6198,7 +6390,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6227,7 +6419,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6257,7 +6449,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6286,7 +6478,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6315,7 +6507,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6344,7 +6536,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6374,7 +6566,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6403,7 +6595,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6432,7 +6624,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6461,7 +6653,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6490,7 +6682,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6520,7 +6712,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6550,7 +6742,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6579,7 +6771,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6608,7 +6800,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6638,7 +6830,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6667,7 +6859,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6696,7 +6888,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6725,7 +6917,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6755,7 +6947,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6784,7 +6976,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6813,7 +7005,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6844,7 +7036,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Not a hard deadline - posting runs to Nov 3, 2026. Salary band $83,200-$357,300. Companion HR line is Assistant/Associate only.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6874,7 +7066,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Partial] Search is real (Leven School, Aug 2027 start) but the deadline remains crowdsourced only; the USG applications portal is JS-only.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -6903,7 +7095,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6933,7 +7125,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6962,7 +7154,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -6991,7 +7183,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7020,7 +7212,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7050,7 +7242,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7080,7 +7272,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7109,7 +7301,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7140,7 +7332,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7170,7 +7362,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7199,7 +7391,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7229,7 +7421,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7259,7 +7451,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7290,7 +7482,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7319,7 +7511,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7348,7 +7540,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7379,7 +7571,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] The Aug 1 full-consideration date has passed but applications close Oct 13. A sibling OB/Leadership search is also open. SCU's own openings page is a cycle behind.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7409,7 +7601,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7438,7 +7630,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7468,7 +7660,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Hard receipt deadline incl. reference letters, 11:59pm ET. Up to two lines. Beware a CLOSED UTSC posting at a nearly identical URL.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7497,7 +7689,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7527,7 +7719,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] The peer sheet mislabels this as a teaching post - it IS tenure-track. Aug 2027 start, six courses/year, $90-110K.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7557,7 +7749,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7587,7 +7779,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Three positions, Assistant-rank priority, July 1 2027 start. Careers portal is JS-only; deadline from the ad text.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7618,7 +7810,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7647,7 +7839,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7678,7 +7870,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7709,7 +7901,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7741,7 +7933,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7770,7 +7962,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7800,7 +7992,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7830,7 +8022,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7862,7 +8054,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7892,7 +8084,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -7922,7 +8114,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "No deep link - search this employer on the AAA facet page; Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -7952,8 +8144,8 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Same employer also posts on AOM - check for overlap",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": false
     },
     {
       "id": "duke-university-tenure-track-faculty-position-in-decision--ace61210",
@@ -7981,7 +8173,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8010,7 +8202,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8041,7 +8233,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8072,7 +8264,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8101,7 +8293,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8131,7 +8323,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8161,7 +8353,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8192,7 +8384,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8222,7 +8414,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8252,7 +8444,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8282,7 +8474,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8311,7 +8503,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8340,7 +8532,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8370,7 +8562,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "Teaching-focused institution",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8400,7 +8592,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8430,7 +8622,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Research area is open.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8461,7 +8653,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] No tenure system - one-year renewable contract, 40 hrs/week, three-month probation. Apply by email. Poor fit for a research-track candidate.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8491,7 +8683,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8522,7 +8714,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8552,7 +8744,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8582,7 +8774,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8612,7 +8804,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8642,7 +8834,7 @@
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
       "sourceNote": "[Confirmed] Teaching-intensive tenure-track at a regional institution.",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8672,7 +8864,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8701,7 +8893,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8730,7 +8922,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8760,7 +8952,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8793,7 +8985,7 @@
       "sourceDocument": "business_school_faculty_jobs_2026-27.xlsx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8822,7 +9014,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8851,7 +9043,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8880,7 +9072,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8909,7 +9101,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8938,7 +9130,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -8967,7 +9159,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -8996,7 +9188,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9025,7 +9217,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -9054,7 +9246,7 @@
       "sourceDocument": "Job Postings 8.14.26.docx",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9080,7 +9272,7 @@
       "url": "https://academicpositions.harvard.edu/postings/16399",
       "summary": "A two-year fellowship supporting independent research on equitable and efficient U.S. health care systems in low-income settings.",
       "source": "Harvard Academic Positions",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9106,7 +9298,7 @@
       "url": "https://apply.interfolio.com/190874",
       "summary": "HBS is accepting applications for a full-time tenure-track position in Accounting and Management starting in 2027.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9133,7 +9325,7 @@
       "url": "https://apply.interfolio.com/189921",
       "summary": "The Entrepreneurial Management unit seeks candidates on the economics and finance side of entrepreneurship.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9160,7 +9352,7 @@
       "url": "https://apply.interfolio.com/189924",
       "summary": "A 2027 tenure-track entrepreneurship search focused on management, organizations, and strategy.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9186,7 +9378,7 @@
       "url": "https://apply.interfolio.com/188373",
       "summary": "HBS is recruiting for a 2027 tenure-track position on the management side of Strategy.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9212,7 +9404,7 @@
       "url": "https://apply.interfolio.com/189920",
       "summary": "A full-time tenure-track Organizational Behavior position with case-method teaching and graduate education responsibilities.",
       "source": "Official HBS faculty positions page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9241,7 +9433,7 @@
       "source": "Official Stanford GSB faculty positions page",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9269,7 +9461,7 @@
       "source": "Academy of Management Career Center",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9294,7 +9486,7 @@
       "url": "https://www.jobs.ac.uk/job/DSJ995/assistant-professor-organisational-behaviour-subject-area",
       "summary": "An assistant professor search in the Organisational Behaviour subject area for the 2027 cycle.",
       "source": "jobs.ac.uk",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9320,7 +9512,7 @@
       "url": "https://apply.interfolio.com/188430",
       "summary": "A 2027 tenure-track search in Human Resources and Organizational Behavior.",
       "source": "Interfolio / AOM announcement",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9345,7 +9537,7 @@
       "url": "https://www.ie.edu/business-school/jobs/",
       "summary": "Multiple tenure-track assistant professor positions in Strategy beginning September 2027.",
       "source": "Official IE Business School jobs page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9370,7 +9562,7 @@
       "url": "https://www.eaa-online.org/arc/jobs/two-tenure-track-assistant-professorships/",
       "summary": "Up to two tenure-track assistant professorships open to candidates across all areas of accounting.",
       "source": "European Accounting Association",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9395,7 +9587,7 @@
       "url": "https://www.fuqua.duke.edu/faculty-recruiting",
       "summary": "Fuqua has signaled that a 2027 Accounting opening is possible; a finalized field-specific posting is not yet available.",
       "source": "Official Fuqua faculty recruiting page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9421,7 +9613,7 @@
       "url": "https://careers.umich.edu/job_detail/281133/presidential-postdoctoral-fellowshipassistant-professor",
       "summary": "A fellowship with a possible transition to a tenure-track appointment; health practice and policy is one of the priority areas.",
       "source": "Official university careers page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -9446,7 +9638,7 @@
       "url": "https://careers.umich.edu/job_detail/281080/assistant-professor-gender-sexuality-and-health-equity",
       "summary": "An interdisciplinary M-PACT search welcoming work on health policy and the social and structural conditions shaping health inequities.",
       "source": "Official university careers page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -9474,8 +9666,8 @@
       "url": "https://facultypositions.stanford.edu/jobs/assistant-associate-or-full-professor-of-health-policy-health-economist-stanford-university-california-united-states",
       "summary": "Open-rank search for a health economist spanning financing, delivery, labor markets, technology, disparities, and global health economics.",
       "source": "Official faculty positions page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
-      "sourceReachable": true
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
+      "sourceReachable": false
     },
     {
       "id": "berkeley-haas-accounting-jpf05423",
@@ -9501,7 +9693,7 @@
       "source": "UC Berkeley AP Recruit",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     },
     {
@@ -9529,7 +9721,7 @@
       "source": "UC Berkeley AP Recruit",
       "verifiedDate": "2026-08-25",
       "verificationStatus": "verified-active",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": false
     },
     {
@@ -9554,7 +9746,7 @@
       "url": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Accounting-ON/604148917/",
       "summary": "Rotman expects to make up to two tenure-stream appointments in accounting.",
       "source": "Official University of Toronto careers page",
-      "lastVerifiedAt": "2026-11-02T20:46:49.520Z",
+      "lastVerifiedAt": "2026-11-09T21:26:07.672Z",
       "sourceReachable": true
     }
   ],
